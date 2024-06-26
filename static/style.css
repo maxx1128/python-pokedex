@@ -1,0 +1,5 @@
+@layer generic;
+
+@import url("_generic/_body.css") layer(generic);
+@import url("_generic/_images.css") layer(generic);
+@import url("_generic/_text.css") layer(generic);
